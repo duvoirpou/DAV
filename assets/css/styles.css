@@ -1,0 +1,17 @@
+body{
+    margin:0;
+    padding: 0;
+}
+
+#erreur_login
+{
+    display: none;
+
+}
+
+
+#erreur_champ
+{
+    display: none;
+
+}

@@ -1,0 +1,8 @@
+ 
+
+
+function imprime(){
+
+    window.print();
+}
+
